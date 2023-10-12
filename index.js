@@ -1,0 +1,25 @@
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
+console.log("Tu pagal hai thoda sa");
